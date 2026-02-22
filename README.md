@@ -10,7 +10,7 @@ For environmental health researchers and spatial epidemiologists, constructing p
 
 This image illustrates how the tool translates a plain English research question into a complex, database-ready MeSH string.
 
-![Project Preview](preview.png)
+![Project Preview](preview.jpg)
 
 *(Note: The output query is immediately ready for use on NCBI PubMed.)*
 
